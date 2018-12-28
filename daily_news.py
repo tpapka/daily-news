@@ -51,3 +51,9 @@ def get_news():
 
 if __name__ == '__main__':
 	get_news()
+
+	
+
+#import itertools
+#for a, b in itertools.zip_longest(list1, list2, fillvalue=''):
+#	print('{:10}{:5}{}'.format(a, "|",b))
