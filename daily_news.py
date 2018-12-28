@@ -57,3 +57,10 @@ if __name__ == '__main__':
 #import itertools
 #for a, b in itertools.zip_longest(list1, list2, fillvalue=''):
 #	print('{:10}{:5}{}'.format(a, "|",b))
+
+#def header():
+	#print(100*"_")
+	#print("{:50}{:50}{}".format("|", "|", "|"))
+	#print("{:25}{:25}{:25}{:25}{:25}".format("|", "TECH NEWS", "|", "WORLD NEWS","|"))
+	#print("|" + 49*"_" + "|" + 49*"_" + "|")
+	
